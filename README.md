@@ -11,12 +11,14 @@ $ npm install
 ```
 
 To run the application
-```
+
 * Runs the client side
+```
 $ npm run app
 ```
 
 * Runs the server side
+```
 $ npm run server
 ```
 
