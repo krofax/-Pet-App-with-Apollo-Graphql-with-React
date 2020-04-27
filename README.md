@@ -1,12 +1,23 @@
-# Fullstack GraphQL
-> Learn how to use GraphQL with Node and React
-
-This course comes with some [slides](https://docs.google.com/presentation/d/1IrGA4PtUEZPVDTBg5_WCMmUapElbFBgLwfSBAp8ft1g/edit?usp=sharing)
-
+# Pet Shop App with Apollo-Graphql and React
 
 ## What you'll need
 * Node version >= 6
 
-## Solutions
-The solution branch has the completed course fo reference. There is no one way to finish this course.
-`git checkout solution`
+## Install
+
+To install the dependencies
+```
+$ npm install
+```
+
+To run the application
+```
+* Runs the client side
+$ npm run app
+```
+
+* Runs the server side
+$ npm run server
+```
+
+built with 🥰 by [@beveloper](https://twitter.com/Beveloper)
