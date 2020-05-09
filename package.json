@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "> Learn how to use GraphQL with Node and React",
   "main": "index.js",
-"dependencies": {
+  "dependencies": {
     "@apollo/react-hooks": "^3.1.2",
     "a": "^2.1.2",
     "apo": "0.0.0",
