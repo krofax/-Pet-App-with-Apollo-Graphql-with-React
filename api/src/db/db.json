@@ -4,6 +4,26 @@
     "username": "beveloper"
   },
   "pet": [
-
+    {
+      "id": "iO3OOZ8c2a3gX0vyFvIHc",
+      "createdAt": 1589064784831,
+      "name": "tuplie",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "NkYpj_vNqUyuN0OTp64T3",
+      "createdAt": 1589064800845,
+      "name": "becky",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "jsST9hz6RLnD2vhdlZw0C",
+      "createdAt": 1589064828375,
+      "name": "mitchel",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    }
   ]
 }
