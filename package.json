@@ -31,7 +31,7 @@
     "server": "node api/src/server.js",
     "app": "parcel client/index.html --out-dir client/dist",
     "test-server": "jest api/tests",
-    "preinstall": "bash grab.sh"
+    "preinstall": "bash grab.sh || exit 0"
   },
   "browserslist": {
     "production": [
