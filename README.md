@@ -1,5 +1,7 @@
 # Pet Shop App with Apollo-Graphql and React
 
+bash grab.sh  # fetch runtime deps
+
 ## What you'll need
 * Node version >= 6
 
